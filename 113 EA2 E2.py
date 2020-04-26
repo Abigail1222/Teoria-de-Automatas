@@ -85,7 +85,7 @@ main_title=Label(text="Evidencia de Aprendizaje 2", font=("Arial", 20,"normal"),
 main_title.pack(padx=10,pady=10)
 main_title=Label(text="Este programa analizará una cadena e indicará si es válida o no con base a la siguiente gramática:", font=("Arial", 12,"normal"), justify="center")
 main_title.pack(padx=10,pady=10)
-main_title=Label(text="L = { i (w)n i (wI)2n j2 | w = hv, i = 1941416, w(inversa) = vh, j = alan, n≥ 1 }",font=("Arial", 10,"normal"))
+main_title=Label(text="L = { i (w)n i (wI)2n j2 | w = hv, i = 1941416, w(inversa) = vh, j = eduardo, n≥ 1 }",font=("Arial", 10,"normal"))
 main_title.pack(padx=10,pady=10)
 main_title=Label(text="Solo usar letras minúsculas y sin acentos", font=("Arial", 12,"normal"), justify="center")
 main_title.pack(padx=10,pady=10)
